@@ -1,0 +1,132 @@
+/* =============
+Global Styles
+============= */
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body {
+    font-family: Raleway;
+    font-size: 12px;
+    line-height: 1.3;
+}
+
+.spacer {
+    margin: 0px auto;
+}
+
+h1, h2, h3, p, a, li {
+    color: black;
+}
+
+h1 {
+    text-align: center;
+    font-size: 28px;
+    margin: 0;
+}
+
+h2 {
+    background-color: #d0cece;
+    border-radius: 0.25rem;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    margin-top: 0;
+    margin-bottom: 6px;
+    font-size: 16px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+h3 {
+    margin: 0;
+    display: flex;
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #2f5496;
+}
+
+p {
+    padding: 0;
+    margin-block-end: 3px;
+    margin-block-start: 3px;
+}
+
+ul {
+    margin: 0px;
+}
+
+li {
+    margin: 3px;
+}
+
+/* =============
+Header
+============= */
+
+.headerInfo > ul {
+    display: flex;
+    justify-content: center;
+    border-bottom: 5px solid #1f3865;
+    margin-bottom: 3px;
+}
+
+.headerInfo > ul > li {
+    list-style-type: none;
+    margin-bottom: 1px;
+}
+
+.headerInfo > ul > li:not(:last-child) {
+    margin-right: 8px;
+}
+
+
+/* =============
+Content
+============= */
+
+.role-summary {
+    text-align: justify;
+}
+
+.skillset-overview {
+    text-align: justify;
+}
+
+.performance-highlights > ul > li {
+    list-style-type: square;
+}
+
+.company-name {
+    margin: 0;
+    border-bottom: 1px solid #d9e2f3;
+}
+
+.education-section {
+    text-align: center;
+    font-size: 13px;
+}
+
+/* =============
+Additional Styles for New Content
+============= */
+
+/* TL;DR Section */
+.tl-dr {
+    text-align: center;
+    font-size: 13px;
+    margin-top: 10px;
+}
+
+/* Professional Experience */
+.professional-experience h3 {
+    color: #1f3865;
+}
+
+/* Additional Experience & Open-Source Projects */
+.additional-experience {
+    margin-top: 10px;
+}
+
+/* Page Break for Second Page Content */
+.page-break {
+    page-break-after: always;
+}
