@@ -2,22 +2,20 @@
 
 <div class="headerInfo">
 
-- London, England
-
 - +447484188198
 
-- [Website](https://linkedin.com/in/philipgeorgeio)
+- [Website](https://philipgeorge.io)
 
-- [LinkedIn](https://{LINKEDIN})
+- [LinkedIn](https://linkedin.com/in/philipgeorgeio)
 
 - [GitHub](https://github.com/pg328)
 
 - [philipgeorge1337@yahoo.co.uk](mailto://philipgeorge1337@yahoo.co.uk)
 </div>
 
-## SOFTWARE ENGINEER
+## BSc Maths and Computer Science, Exeter University Class of 2019
 
-<b> Full-Stack Engineer specializing in front-end development and agile methodologies. Demonstrated ability in high-quality end-to-end software delivery, enhancing system performance, and integrating modern technologies.</b>
+<b> Full-Stack SWE specializing in front-end development and agile methodologies. Demonstrated ability in high-quality end-to-end software delivery, enhancing system performance, and integrating modern technologies.</b>
 
 ## AREAS OF EXPERTISE
 
@@ -95,4 +93,3 @@ Software Engineering, Full Stack Development, Project Leadership, Agile Methodol
 - Built Python TUI for the 'Numbers Game' from 'Countdown', currently enhancing with React and Rust (via WebAssembly).
 - Technologies: Python, React, Rust, Vercel Edge Functions, Astro.
 </p>
-
